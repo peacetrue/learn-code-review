@@ -9,3 +9,9 @@
 * feature 分支开发完成后，发起 pull request
 * pull request 通知到项目组成员，让其审核代码
 * 审核无误，合并代码
+
+== Branch protection rules
+
+image::rules.png[]
+
+并没有感受到分支有被保护的感觉。
