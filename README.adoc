@@ -13,3 +13,5 @@
 == Branch protection rules
 
 image::rules.png[]
+
+并没有感受到分支有被保护的感觉。
